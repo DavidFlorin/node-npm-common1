@@ -1,3 +1,3 @@
 module.exports = () => {
-  return 'This is common package 1 v3'
+  return 'This is common package 1 v4'
 }
